@@ -1,6 +1,12 @@
+<div align="center">
+    
 # Premier League Club Logo Recognition using CNN's!
 
+<img width="1440" height="810" alt="PLLogoKits" src="https://github.com/user-attachments/assets/c5a89da8-2eb3-4399-af07-1da93afa62d8" />
+
 As a passionate football fan and a supporter of Manchester United, I embarked on this project to deepen my understanding of Convolutional Neural Networks (CNNs) and their application in image recognition. This repository showcases a CNN model trained to identify English Premier League club logos, providing a practical example of how AI can be used in areas I'm enthusiastic about. This README serves as a comprehensive walkthrough of the project, from dataset selection and model architecture to training, evaluation, and potential real-world applications.
+
+</div>
 
 ## What are Convolutional Neural Networks (CNNs)?
 
@@ -159,3 +165,9 @@ This project not only solidified my understanding of CNNs but also showcased how
 *   **Kaggle Dataset:** [English Premier League Logo Detection](https://www.kaggle.com/datasets/alexteboul/english-premier-league-logo-detection-20k-images/data)
 *   **Google Colab Notebook:** [Colab Notebook](https://drive.google.com/file/d/1xif3u9zh_wJ7uOpTZ-fKgZvtEUYXMLLZ/view?usp=sharing)
 *   **GitHub Repository:** [Current Repo](https://github.com/IbrahimExe/PremierLeague_CNN)
+
+<div align="center">
+
+<img width="800" height="534" alt="PLLogosCollage" src="https://github.com/user-attachments/assets/36cf3d61-e459-45aa-86b8-3b9a6153944e" />
+
+</div>
